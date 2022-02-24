@@ -1,7 +1,7 @@
 # Syntax Coloring Map For Winbond W25N
 
 # Datatypes (KEYWORD1)
-W25N	KEYWORD1
+WinbondW25N	KEYWORD1
 
 # Methods and Functions (KEYWORD2)
 sendData             KEYWORD2
